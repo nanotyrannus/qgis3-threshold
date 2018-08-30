@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/threshold" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
